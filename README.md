@@ -18,9 +18,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 * [Raspberry Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/) the final revision of the third-generation single-board computer.
 
-* [Raspberry Pi OS Desktop](https://www.raspberrypi.com/software/operating-systems/).
+* [Raspberry Pi OS Desktop](https://www.raspberrypi.com/software/operating-systems/)
 
-* [3.5'' RPi Display](http://www.lcdwiki.com/3.5inch_RPi_Display).
+* [3.5'' RPi Display](http://www.lcdwiki.com/3.5inch_RPi_Display)
 
 To configure the display and drivers, proceed as follows:
 ```
